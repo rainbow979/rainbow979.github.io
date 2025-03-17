@@ -115,11 +115,11 @@ Currently, I'm focusing on:
   </div>
 </div> -->
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2022.09*, HKUST RedBird PhD Award
 - *2016*, NOI Siliver Medal
 
-# Educations
+# Education
 - *2022.08 - Now*, Ph.D. student in Computer Science & Engineering, The Hong Kong University of Science and Technology.
 - *2017.09 - 2022.06*, BSc in Computer Science, Peking University.
 
@@ -127,3 +127,7 @@ Currently, I'm focusing on:
 - *2024.08 - Now*, Research Intern, Tencent Robotics X Lab
 - *2023.06 - 2023.09*, Visiting Student, MIT-IBM Watson AI Lab
 - *2021.09 - 2021.12*, Research Intern, Tencent WXG
+
+<center>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1zxRtuormFDBfghKWyMb9Y58iRQj8c9zFfuzWjR0g_0&cl=ffffff&w=a"></script>
+</center>
