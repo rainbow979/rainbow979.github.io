@@ -24,7 +24,7 @@ Currently, I'm focusing on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICML 2024</div>
-      <img src='images/robodreamer.m4v' type="video/mp4">
+      <img src='images/robodreamer.mp4' type="video/mp4">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -62,7 +62,7 @@ Currently, I'm focusing on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">AAMAS 2024</div>
-      <img src='images/ma2ql' alt="sym" width="100%">
+      <img src='images/ma2ql.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -120,7 +120,7 @@ Currently, I'm focusing on:
 - *2022.08 - Now*, Ph.D. student in Computer Science & Engineering, The Hong Kong University of Science and Technology.
 - *2017.09 - 2022.06*, BSc in Computer Science, Peking University.
 
-# 💻 Internships
+# Internships
 - *2024.08 - Now*, Research Intern, Tencent Robotics X Lab
 - *2023.06 - 2023.09*, Visiting Student, MIT-IBM Watson AI Lab
 - *2021.09 - 2021.12*, Research Intern, Tencent WXG
