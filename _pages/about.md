@@ -24,7 +24,10 @@ Currently, I'm focusing on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICML 2024</div>
-      <img src='images/robodreamer.mp4' type="video/mp4">
+      <video autoplay loop muted playsinline webkit-playsinline width="100%">
+              <source src="images/robodreamer.mp4" type="video/mp4">
+            </video>
+      <!-- <img src='images/robodreamer.mp4' type="video/mp4"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
