@@ -129,5 +129,5 @@ Currently, I'm focusing on:
 - *2021.09 - 2021.12*, Research Intern, Tencent WXG
 
 <center>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1zxRtuormFDBfghKWyMb9Y58iRQj8c9zFfuzWjR0g_0&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=150&t=n&d=1zxRtuormFDBfghKWyMb9Y58iRQj8c9zFfuzWjR0g_0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
 </center>
