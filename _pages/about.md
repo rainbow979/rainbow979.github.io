@@ -14,8 +14,8 @@ I'm Siyuan Zhou, a third-year PhD student at [Hong Kong University of Science an
 <!-- My research interest is broadly on World Models and Robot Learning. -->
 
 Currently, I'm focusing on:
-1. **Generation Models and World Models**;
-2. **Generalization in Robot Learning**;
+1. **Generation Models and World Models**
+2. **Generalization in Robot Learning**
 
 
 # Publications
