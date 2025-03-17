@@ -120,7 +120,7 @@ Currently, I'm focusing on:
 - *2016*, NOI Siliver Medal
 
 # Education
-- *2022.08 - Now*, Ph.D. student in Computer Science & Engineering, The Hong Kong University of Science and Technology.
+- *2022.08 - Now*, Ph.D. student in Computer Science and Engineering, The Hong Kong University of Science and Technology.
 - *2017.09 - 2022.06*, BSc in Computer Science, Peking University.
 
 # Internships
