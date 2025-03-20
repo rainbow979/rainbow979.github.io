@@ -73,7 +73,7 @@ Currently, I'm focusing on:
   **Multi-Agent Alternate Q-Learning**
 
   <!-- **Siyuan Zhou**, [Yilun Du], [Jiaben Chen], [Yandong Li], [Dit-Yan Yeung], [Chuang Gan] -->
-  [Kefan Su], **Siyuan Zhou**, [Jiechuan Jiang], [Chuang Gan], [Xiangjun Wang], [Zongqing Lu]
+  [Kefan Su], **Siyuan Zhou**, [Jiechuan Jiang], [Chuang Gan], [Xiangjun Wang](), [Zongqing Lu]
 
   **AAMAS 2024** [[arXiv](https://arxiv.org/abs/2209.08244)]
 

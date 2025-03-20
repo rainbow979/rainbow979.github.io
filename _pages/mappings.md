@@ -19,4 +19,4 @@
 [Zongqing Lu]: https://z0ngqing.github.io/
 
 [Antonio Torralba]: https://web.mit.edu/torralba/www/
-[Josh Tenenbaum]: https://web.mit.edu/cocosci/josh.html
+[Joshua B Tenenbaum]: https://web.mit.edu/cocosci/josh.html
