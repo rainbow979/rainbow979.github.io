@@ -17,6 +17,7 @@ Currently, I'm focusing on:
 1. **Generation Models and World Models**
 2. **Generalization in Robot Learning**
 
+{% include_relative mappings.md %}
 
 # Publications
 
@@ -90,7 +91,7 @@ Currently, I'm focusing on:
   **The threedworld transport challenge: A visually guided task-and-motion planning benchmark for physically realistic embodied ai**
 
   <!-- **Siyuan Zhou**, [Yilun Du], [Jiaben Chen], [Yandong Li], [Dit-Yan Yeung], [Chuang Gan] -->
-  [Chuang Gan], **Siyuan Zhou**, [Jeremy Schwartz], [Seth Alter], [Abhishek Bhandwaldar], [Dan Gutfreund], [Daniel LK Yamins], [James J DiCarlo], [Josh McDermott], [Antonio Torralba], [Joshua B Tenenbaum]
+  [Chuang Gan], **Siyuan Zhou**, [Jeremy Schwartz](), [Seth Alter](), [Abhishek Bhandwaldar](), [Dan Gutfreund](), [Daniel LK Yamins](), [James J DiCarlo](), [Josh McDermott](), [Antonio Torralba], [Joshua B Tenenbaum]
 
   ***ICRA 2022*** [[arXiv](https://arxiv.org/abs/2103.14025)]
 
@@ -129,5 +130,5 @@ Currently, I'm focusing on:
 - *2021.09 - 2021.12*, Research Intern, Tencent WXG
 
 <center>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=n&d=1zxRtuormFDBfghKWyMb9Y58iRQj8c9zFfuzWjR0g_0&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=m&d=1zxRtuormFDBfghKWyMb9Y58iRQj8c9zFfuzWjR0g_0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
 </center>
