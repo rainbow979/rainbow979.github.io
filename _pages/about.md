@@ -25,7 +25,7 @@ Currently, I'm focusing on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICML 2024</div>
-      <video autoplay loop muted playsinline webkit-playsinline width="85%" style="display: block; margin: 0 auto;">
+      <video autoplay loop muted playsinline webkit-playsinline width="100%">
               <source src="images/robodreamer.mp4" type="video/mp4">
             </video>
       <!-- <img src='images/robodreamer.mp4' type="video/mp4"> -->
@@ -103,7 +103,7 @@ Currently, I'm focusing on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2022</div>
-      <img src='images/fall_object.jpg' alt="sym" width="70%" style="display: block; margin: 0 auto;">
+      <img src='images/fall_object.jpg' alt="sym" width="100">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
