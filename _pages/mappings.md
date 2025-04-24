@@ -20,3 +20,10 @@
 
 [Antonio Torralba]: https://web.mit.edu/torralba/www/
 [Joshua B Tenenbaum]: https://web.mit.edu/cocosci/josh.html
+
+[Yuchen Lu]: https://jackhaha363.github.io/
+[Zhihao Huang]: https://sites.google.com/view/zhiao-huang
+[Yuanming Hu]: https://yuanming.taichi.graphics/
+[Tao Du]: https://people.iiis.tsinghua.edu.cn/~taodu/
+[Hao Su]: https://cseweb.ucsd.edu/~haosu/
+[Aaron Courville]: https://mila.quebec/en/directory/aaron-courville

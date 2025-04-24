@@ -99,11 +99,11 @@ Currently, I'm focusing on:
 </div>
 
 
-<!-- <div class='paper-box'>
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2022</div>
-      <img src='images/' alt="sym" width="100%">
+      <img src='images/fall_object.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -114,7 +114,41 @@ Currently, I'm focusing on:
   ***CVPR 2022*** [[arXiv](https://arxiv.org/abs/2207.03483)]
 
   </div>
-</div> -->
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICLR 2021</div>
+      <img src='images/OMPN.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Learning Task Decomposition with Ordered Memory Policy Network**
+  [Yuchen Lu], [Yikang Shen], **Siyuan Zhou**, [Aaron Courville], [Joshua B Tenenbaum], [Chuang Gan]
+
+  ***ICLR 2021*** [[arXiv](https://arxiv.org/abs/2103.10972)]
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICLR 2021</div>
+      <img src='images/OMPN.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics**
+  
+  [Zhiao Huang], [Yuanming Hu], [Tao Du], **Siyuan Zhou**, [Hao Su], [Joshua B. Tenenbaum], [Chuang Gan]
+
+  ***ICLR 2021*** [[arXiv](https://arxiv.org/abs/2104.03311)]
+
+  </div>
+</div>
 
 # Honors and Awards
 - *2022.09*, HKUST RedBird PhD Award
