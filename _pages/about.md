@@ -109,7 +109,7 @@ Currently, I'm focusing on:
   <div class='paper-box-text' markdown="1">
   **Finding fallen objects via asynchronous audio-visual integration**
 
-  [Chuang Gan], [Yi Gu], **Siyuan Zhou**, [Jeremy Schwartz], [Seth Alter], [James Traer], [Dan Gutfreund], [Joshua B Tenenbaum], [Josh H McDermott], [Antonio Torralba]
+  [Chuang Gan], [Yi Gu](), **Siyuan Zhou**, [Jeremy Schwartz](), [Seth Alter](), [James Traer](), [Dan Gutfreund](), [Joshua B Tenenbaum], [Josh H McDermott](), [Antonio Torralba]
 
   ***CVPR 2022*** [[arXiv](https://arxiv.org/abs/2207.03483)]
 
