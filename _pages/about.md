@@ -25,7 +25,7 @@ Currently, I'm focusing on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICML 2024</div>
-      <video autoplay loop muted playsinline webkit-playsinline width="100%">
+      <video autoplay loop muted playsinline webkit-playsinline width="85%">
               <source src="images/robodreamer.mp4" type="video/mp4">
             </video>
       <!-- <img src='images/robodreamer.mp4' type="video/mp4"> -->
@@ -103,7 +103,7 @@ Currently, I'm focusing on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2022</div>
-      <img src='images/fall_object.jpg' alt="sym" width="100%">
+      <img src='images/fall_object.jpg' alt="sym" width="70%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -125,6 +125,7 @@ Currently, I'm focusing on:
   </div>
   <div class='paper-box-text' markdown="1">
   **Learning Task Decomposition with Ordered Memory Policy Network**
+  
   [Yuchen Lu], [Yikang Shen], **Siyuan Zhou**, [Aaron Courville], [Joshua B Tenenbaum], [Chuang Gan]
 
   ***ICLR 2021*** [[arXiv](https://arxiv.org/abs/2103.10972)]
@@ -137,13 +138,13 @@ Currently, I'm focusing on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICLR 2021</div>
-      <img src='images/OMPN.jpg' alt="sym" width="100%">
+      <img src='images/soft.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
   **PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics**
   
-  [Zhiao Huang], [Yuanming Hu], [Tao Du], **Siyuan Zhou**, [Hao Su], [Joshua B. Tenenbaum], [Chuang Gan]
+  [Zhiao Huang], [Yuanming Hu], [Tao Du], **Siyuan Zhou**, [Hao Su], [Joshua B Tenenbaum], [Chuang Gan]
 
   ***ICLR 2021*** [[arXiv](https://arxiv.org/abs/2104.03311)]
 
