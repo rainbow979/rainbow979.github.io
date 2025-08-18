@@ -24,6 +24,43 @@ Currently, I'm focusing on:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">ICCV 2025</div>
+      <video autoplay loop muted playsinline webkit-playsinline width="100%">
+              <source src="images/teaser.mp4" type="video/mp4">
+            </video>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **TesserAct: Learning 4D Embodied World Models**
+
+  <!-- **Siyuan Zhou**, [Yilun Du], [Jiaben Chen], [Yandong Li], [Dit-Yan Yeung], [Chuang Gan] -->
+  <!-- **Siyuan Zhou**, [Yilun Du], [Shun Zhang], [Mengdi Xu], [Yikang Shen], [Wei Xiao], [Dit-Yan Yeung], [Chuang Gan] -->
+  [Haoyu Zhen], [Qiao Sun](), [Hongxin Zhang](), [Junyan Li](), **Siyuan Zhou**, [Yilun Du], [Chuang Gan]
+  **ICCV 2025** [[arXiv](https://arxiv.org/pdf/2503.18938)] [[Code](https://github.com/Little-Podi/AdaWorld)]
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICML 2025</div>
+      <img src='images/adaworld.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **AdaWorld: Learning Adaptable World Models with Latent Actions**
+
+  <!-- **Siyuan Zhou**, [Yilun Du], [Jiaben Chen], [Yandong Li], [Dit-Yan Yeung], [Chuang Gan] -->
+  <!-- **Siyuan Zhou**, [Yilun Du], [Shun Zhang], [Mengdi Xu], [Yikang Shen], [Wei Xiao], [Dit-Yan Yeung], [Chuang Gan] -->
+  [Shenyuan Gao], **Siyuan Zhou**, [Yilun Du], [Jun Zhang](), [Chuang Gan] 
+  **ICML 2025** [[arXiv](https://arxiv.org/pdf/2503.18938)] [[Code](https://github.com/Little-Podi/AdaWorld)]
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">ICML 2024</div>
       <video autoplay loop muted playsinline webkit-playsinline width="100%">
               <source src="images/robodreamer.mp4" type="video/mp4">

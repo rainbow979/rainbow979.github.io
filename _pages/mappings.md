@@ -27,3 +27,7 @@
 [Tao Du]: https://people.iiis.tsinghua.edu.cn/~taodu/
 [Hao Su]: https://cseweb.ucsd.edu/~haosu/
 [Aaron Courville]: https://mila.quebec/en/directory/aaron-courville
+
+
+[Shenyuan Gao]: https://github.com/Little-Podi
+[Haoyu Zhen]: https://haoyuzhen.com/
