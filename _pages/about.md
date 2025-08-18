@@ -45,7 +45,9 @@ Currently, I'm focusing on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICML 2025</div>
+      <div style="text-align: center;">
       <img src='images/adaworld.png' alt="sym" width="75%">
+      </div>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
