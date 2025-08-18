@@ -36,6 +36,7 @@ Currently, I'm focusing on:
   <!-- **Siyuan Zhou**, [Yilun Du], [Jiaben Chen], [Yandong Li], [Dit-Yan Yeung], [Chuang Gan] -->
   <!-- **Siyuan Zhou**, [Yilun Du], [Shun Zhang], [Mengdi Xu], [Yikang Shen], [Wei Xiao], [Dit-Yan Yeung], [Chuang Gan] -->
   [Haoyu Zhen], [Qiao Sun](), [Hongxin Zhang](), [Junyan Li](), **Siyuan Zhou**, [Yilun Du], [Chuang Gan]
+
   **ICCV 2025** [[arXiv](https://arxiv.org/pdf/2503.18938)] [[Code](https://github.com/Little-Podi/AdaWorld)]
   </div>
 </div>
@@ -44,7 +45,7 @@ Currently, I'm focusing on:
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICML 2025</div>
-      <img src='images/adaworld.png' alt="sym" width="100%">
+      <img src='images/adaworld.png' alt="sym" width="75%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -53,6 +54,7 @@ Currently, I'm focusing on:
   <!-- **Siyuan Zhou**, [Yilun Du], [Jiaben Chen], [Yandong Li], [Dit-Yan Yeung], [Chuang Gan] -->
   <!-- **Siyuan Zhou**, [Yilun Du], [Shun Zhang], [Mengdi Xu], [Yikang Shen], [Wei Xiao], [Dit-Yan Yeung], [Chuang Gan] -->
   [Shenyuan Gao], **Siyuan Zhou**, [Yilun Du], [Jun Zhang](), [Chuang Gan] 
+
   **ICML 2025** [[arXiv](https://arxiv.org/pdf/2503.18938)] [[Code](https://github.com/Little-Podi/AdaWorld)]
   </div>
 </div>
