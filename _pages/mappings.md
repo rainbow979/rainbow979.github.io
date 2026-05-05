@@ -31,3 +31,5 @@
 
 [Shenyuan Gao]: https://github.com/Little-Podi
 [Haoyu Zhen]: https://haoyuzhen.com/
+
+[Yuncong Yang]: https://yyuncong.github.io/

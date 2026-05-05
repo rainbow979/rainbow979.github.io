@@ -10,16 +10,58 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Siyuan Zhou, a third-year PhD student at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST), supervised by [Prof. Dit-Yan Yeung](https://sites.google.com/view/dyyeung/home). I'm fortunately supervised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/) and closely collaborate with [Prof. Yilun Du](https://yilundu.github.io/).
+I'm Siyuan Zhou, a final year PhD student at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST), supervised by [Prof. Dit-Yan Yeung](https://sites.google.com/view/dyyeung/home). I'm fortunately supervised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/) and closely collaborate with [Prof. Yilun Du](https://yilundu.github.io/).
 <!-- My research interest is broadly on World Models and Robot Learning. -->
 
 Currently, I'm focusing on:
 1. **Generation Models and World Models**
-2. **Generalization in Robot Learning**
+2. **Scaling in Robot Learning**
 
 {% include_relative mappings.md %}
 
 # Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NeurIPS 2025</div>
+      <div style="text-align: center;">
+      <img src='images/pwm.png' alt="sym" width="75%">
+      </div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Learning 3d persistent embodied world models**
+
+  <!-- **Siyuan Zhou**, [Yilun Du], [Jiaben Chen], [Yandong Li], [Dit-Yan Yeung], [Chuang Gan] -->
+  <!-- **Siyuan Zhou**, [Yilun Du], [Shun Zhang], [Mengdi Xu], [Yikang Shen], [Wei Xiao], [Dit-Yan Yeung], [Chuang Gan] -->
+  **Siyuan Zhou**, [Yilun Du], [Yuncong Yang], [Lei Han](), [Peihao Chen], [Dit-Yan Yeung], [Chuang Gan]
+
+  **NeurIPS 2025** [[arXiv](https://arxiv.org/abs/2505.05495)] [[Code](https://github.com/rainbow979/MemoryWorld)]
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NeurIPS 2025</div>
+      <div style="text-align: center;">
+      <video autoplay loop muted playsinline webkit-playsinline width="100%">
+              <source src="images/mindjourney.mp4" type="video/mp4">
+            </video>
+      </div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**
+
+  <!-- **Siyuan Zhou**, [Yilun Du], [Jiaben Chen], [Yandong Li], [Dit-Yan Yeung], [Chuang Gan] -->
+  <!-- **Siyuan Zhou**, [Yilun Du], [Shun Zhang], [Mengdi Xu], [Yikang Shen], [Wei Xiao], [Dit-Yan Yeung], [Chuang Gan] -->
+  [Yuncong Yang]*, [Jiageng Liu]()*, [Zheyuan Zhang](), **Siyuan Zhou**, [Reuben Tan](), [Jianwei Yang](), [Yilun Du], [Chuang Gan]
+
+  **NeurIPS 2025** [[Project](https://umass-embodied-agi.github.io/MindJourney/)]
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -96,7 +138,7 @@ Currently, I'm focusing on:
   <!-- **Siyuan Zhou**, [Yilun Du], [Jiaben Chen], [Yandong Li], [Dit-Yan Yeung], [Chuang Gan] -->
   **Siyuan Zhou**, [Yilun Du], [Shun Zhang], [Mengdi Xu], [Yikang Shen], [Wei Xiao], [Dit-Yan Yeung], [Chuang Gan]
 
-  **Neurips 2023** [[arXiv](https://arxiv.org/abs/2310.09629)] [[Code](https://github.com/rainbow979/replandiffuser)]
+  **NeurIPS 2023** [[arXiv](https://arxiv.org/abs/2310.09629)] [[Code](https://github.com/rainbow979/replandiffuser)]
 
   <!-- [![GitHub Stars](https://img.shields.io/github/stars/UMass-Foundation-Model/RapVerse?style=social)](https://github.com/UMass-Foundation-Model/RapVerse) [![Demo views](https://img.shields.io/youtube/views/6ik2qNcId8g)](https://www.youtube.com/watch?v=6ik2qNcId8g) -->
   </div>
@@ -201,7 +243,8 @@ Currently, I'm focusing on:
 - *2017.09 - 2022.06*, BSc in Computer Science, Peking University.
 
 # Internships
-- *2024.08 - Now*, Research Intern, Tencent Robotics X Lab
+- *2025.06 - Now*, Research Intern, Seed
+- *2024.08 - 2025.06*, Research Intern, Tencent Robotics X Lab
 - *2023.06 - 2023.09*, Visiting Student, MIT-IBM Watson AI Lab
 - *2021.09 - 2021.12*, Research Intern, Tencent WXG
 
